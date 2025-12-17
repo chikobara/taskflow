@@ -35,16 +35,16 @@ A modern, responsive landing page for a Task Management Software built with Next
 
 ```bash
 # Install dependencies
-npm install
+pnpm install
 
 # Start development server
-npm run dev
+pnpm dev
 
 # Build for production
-npm run build
+pnpm build
 
 # Start production server
-npm start
+pnpm start
 ```
 
 Open [http://localhost:3000](http://localhost:3000) to view the landing page.
